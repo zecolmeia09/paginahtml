@@ -1,6 +1,6 @@
-body{background-color: blueviolet #ffffff; text-align: justify; font-size: x18px;}
+body{background-color: blueviolet; text-align: justify; font-size: x18px;}
 h1{text-align: center;background-color: #ffffff;color: blueviolet;}
-h3{text-align: justify;color: blueviolet(0,0,0);}
+h3{text-align: justify;color: blueviolet;}
 b{color: blueviolet;font-size: 18px;}
 i{color: blueviolet; font-size: 18px;}
 heder,footer{background-color: blueviolet; color: #ffffff;text-align:center; font-size: 20px; }
